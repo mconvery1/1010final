@@ -21,3 +21,4 @@ while running:
     clock.tick(60)  # Limit frame rate to 60 FPS
 
 pygame.quit()
+#hi im kenzie
